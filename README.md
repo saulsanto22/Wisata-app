@@ -1,5 +1,6 @@
 
 Website ini menggunakan Framework Laravel PHP dan Bootsrap Fremework CSS
+Tema Website : Website penyedia Informasi Wisata 
 
 -------------------------------------------------------------
 PENJELASAN PROJEK / ALUR
