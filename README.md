@@ -7,7 +7,7 @@ PENJELASAN PROJEK / ALUR
 -------------------------------------------------------------
 
 FITUR :
-1. Auth Login dan Register 
+1. Auth Login dan Register menggunakan Package Laravel UI Auth
 2. CRUD Paket Wisata dan CRUD Galery foto wisata
 3. Fitur search wisata
 
